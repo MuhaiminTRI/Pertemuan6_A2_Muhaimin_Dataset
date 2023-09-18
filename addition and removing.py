@@ -1,0 +1,6 @@
+nilai= set({3,6,9,2,5,7})
+B=(1,2,3,4,5,6,7,8,9,10)
+nilai.update(B)
+Z=(1,3,4,5,7,8,10)
+print(nilai)
+print(nilai.difference(Z))
